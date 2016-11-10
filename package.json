@@ -1,0 +1,25 @@
+{
+  "name": "launcher3-standalone-lollipop",
+  "version": "1.0.0",
+  "author": "",
+  "description": "JS script index.js merges an input directory containing XML descendants into an output directory. If XML descendents exist in the output directory, the XML trees are merged according to overwrite options.",
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^7.1.0",
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "^7.0.0",
+    "eslint-plugin-jsx-a11y": "^1.1.0",
+    "eslint-plugin-react": "^4.3.0",
+    "eslint-plugin-react-native": "^1.0.2",
+    "fs-extra": "^1.0.0",
+    "lodash.mergewith": "^4.6.0",
+    "path-exists": "^3.0.0",
+    "through2": "^2.0.1",
+    "xml-js": "^0.9.7",
+    "yargs": "^6.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}

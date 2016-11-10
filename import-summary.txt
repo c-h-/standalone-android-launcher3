@@ -1,0 +1,317 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* Android.mk
+* CleanSpec.mk
+* MODULE_LICENSE_APACHE2
+* NOTICE
+* WallpaperPicker/
+* WallpaperPicker/AndroidManifest.xml
+* WallpaperPicker/README
+* WallpaperPicker/res/
+* WallpaperPicker/res/drawable-hdpi/
+* WallpaperPicker/res/drawable-hdpi/ic_actionbar_accept.png
+* WallpaperPicker/res/drawable-hdpi/ic_images.png
+* WallpaperPicker/res/drawable-hdpi/tile_picker_focused.9.png
+* WallpaperPicker/res/drawable-hdpi/tile_picker_pressed.9.png
+* WallpaperPicker/res/drawable-hdpi/tile_picker_selected.9.png
+* WallpaperPicker/res/drawable-hdpi/tile_shadow_bottom.9.png
+* WallpaperPicker/res/drawable-hdpi/tile_shadow_top.9.png
+* WallpaperPicker/res/drawable-mdpi/
+* WallpaperPicker/res/drawable-mdpi/ic_actionbar_accept.png
+* WallpaperPicker/res/drawable-mdpi/ic_images.png
+* WallpaperPicker/res/drawable-mdpi/tile_picker_focused.9.png
+* WallpaperPicker/res/drawable-mdpi/tile_picker_pressed.9.png
+* WallpaperPicker/res/drawable-mdpi/tile_picker_selected.9.png
+* WallpaperPicker/res/drawable-mdpi/tile_shadow_bottom.9.png
+* WallpaperPicker/res/drawable-mdpi/tile_shadow_top.9.png
+* WallpaperPicker/res/drawable-xhdpi/
+* WallpaperPicker/res/drawable-xhdpi/ic_actionbar_accept.png
+* WallpaperPicker/res/drawable-xhdpi/ic_images.png
+* WallpaperPicker/res/drawable-xhdpi/tile_picker_focused.9.png
+* WallpaperPicker/res/drawable-xhdpi/tile_picker_pressed.9.png
+* WallpaperPicker/res/drawable-xhdpi/tile_picker_selected.9.png
+* WallpaperPicker/res/drawable-xhdpi/tile_shadow_bottom.9.png
+* WallpaperPicker/res/drawable-xhdpi/tile_shadow_top.9.png
+* WallpaperPicker/res/drawable-xxhdpi/
+* WallpaperPicker/res/drawable-xxhdpi/ic_actionbar_accept.png
+* WallpaperPicker/res/drawable-xxhdpi/ic_images.png
+* WallpaperPicker/res/drawable-xxhdpi/tile_picker_focused.9.png
+* WallpaperPicker/res/drawable-xxhdpi/tile_picker_pressed.9.png
+* WallpaperPicker/res/drawable-xxhdpi/tile_picker_selected.9.png
+* WallpaperPicker/res/drawable-xxhdpi/tile_shadow_bottom.9.png
+* WallpaperPicker/res/drawable-xxhdpi/tile_shadow_top.9.png
+* WallpaperPicker/res/drawable/
+* WallpaperPicker/res/drawable/wallpaper_tile_fg.xml
+* WallpaperPicker/res/layout/
+* WallpaperPicker/res/layout/actionbar_set_wallpaper.xml
+* WallpaperPicker/res/layout/wallpaper_cropper.xml
+* WallpaperPicker/res/layout/wallpaper_picker.xml
+* WallpaperPicker/res/layout/wallpaper_picker_image_picker_item.xml
+* WallpaperPicker/res/layout/wallpaper_picker_item.xml
+* WallpaperPicker/res/layout/wallpaper_picker_live_wallpaper_item.xml
+* WallpaperPicker/res/layout/wallpaper_picker_third_party_item.xml
+* WallpaperPicker/res/menu/
+* WallpaperPicker/res/menu/cab_delete_wallpapers.xml
+* WallpaperPicker/res/mipmap-hdpi/
+* WallpaperPicker/res/mipmap-hdpi/ic_launcher_wallpaper.png
+* WallpaperPicker/res/mipmap-mdpi/
+* WallpaperPicker/res/mipmap-mdpi/ic_launcher_wallpaper.png
+* WallpaperPicker/res/mipmap-xhdpi/
+* WallpaperPicker/res/mipmap-xhdpi/ic_launcher_wallpaper.png
+* WallpaperPicker/res/mipmap-xxhdpi/
+* WallpaperPicker/res/mipmap-xxhdpi/ic_launcher_wallpaper.png
+* WallpaperPicker/res/values-af/
+* WallpaperPicker/res/values-af/strings.xml
+* WallpaperPicker/res/values-am/
+* WallpaperPicker/res/values-am/strings.xml
+* WallpaperPicker/res/values-ar/
+* WallpaperPicker/res/values-ar/strings.xml
+* WallpaperPicker/res/values-bg/
+* WallpaperPicker/res/values-bg/strings.xml
+* WallpaperPicker/res/values-ca/
+* WallpaperPicker/res/values-ca/strings.xml
+* WallpaperPicker/res/values-cs/
+* WallpaperPicker/res/values-cs/strings.xml
+* WallpaperPicker/res/values-da/
+* WallpaperPicker/res/values-da/strings.xml
+* WallpaperPicker/res/values-de/
+* WallpaperPicker/res/values-de/strings.xml
+* WallpaperPicker/res/values-el/
+* WallpaperPicker/res/values-el/strings.xml
+* WallpaperPicker/res/values-en-rGB/
+* WallpaperPicker/res/values-en-rGB/strings.xml
+* WallpaperPicker/res/values-en-rIN/
+* WallpaperPicker/res/values-en-rIN/strings.xml
+* WallpaperPicker/res/values-es-rUS/
+* WallpaperPicker/res/values-es-rUS/strings.xml
+* WallpaperPicker/res/values-es/
+* WallpaperPicker/res/values-es/strings.xml
+* WallpaperPicker/res/values-et-rEE/
+* WallpaperPicker/res/values-et-rEE/strings.xml
+* WallpaperPicker/res/values-fa/
+* WallpaperPicker/res/values-fa/strings.xml
+* WallpaperPicker/res/values-fi/
+* WallpaperPicker/res/values-fi/strings.xml
+* WallpaperPicker/res/values-fr-rCA/
+* WallpaperPicker/res/values-fr-rCA/strings.xml
+* WallpaperPicker/res/values-fr/
+* WallpaperPicker/res/values-fr/strings.xml
+* WallpaperPicker/res/values-hi/
+* WallpaperPicker/res/values-hi/strings.xml
+* WallpaperPicker/res/values-hr/
+* WallpaperPicker/res/values-hr/strings.xml
+* WallpaperPicker/res/values-hu/
+* WallpaperPicker/res/values-hu/strings.xml
+* WallpaperPicker/res/values-hy-rAM/
+* WallpaperPicker/res/values-hy-rAM/strings.xml
+* WallpaperPicker/res/values-in/
+* WallpaperPicker/res/values-in/strings.xml
+* WallpaperPicker/res/values-it/
+* WallpaperPicker/res/values-it/strings.xml
+* WallpaperPicker/res/values-iw/
+* WallpaperPicker/res/values-iw/strings.xml
+* WallpaperPicker/res/values-ja/
+* WallpaperPicker/res/values-ja/strings.xml
+* WallpaperPicker/res/values-ka-rGE/
+* WallpaperPicker/res/values-ka-rGE/strings.xml
+* WallpaperPicker/res/values-km-rKH/
+* WallpaperPicker/res/values-km-rKH/strings.xml
+* WallpaperPicker/res/values-ko/
+* WallpaperPicker/res/values-ko/strings.xml
+* WallpaperPicker/res/values-lo-rLA/
+* WallpaperPicker/res/values-lo-rLA/strings.xml
+* WallpaperPicker/res/values-lt/
+* WallpaperPicker/res/values-lt/strings.xml
+* WallpaperPicker/res/values-lv/
+* WallpaperPicker/res/values-lv/strings.xml
+* WallpaperPicker/res/values-mn-rMN/
+* WallpaperPicker/res/values-mn-rMN/strings.xml
+* WallpaperPicker/res/values-ms-rMY/
+* WallpaperPicker/res/values-ms-rMY/strings.xml
+* WallpaperPicker/res/values-nb/
+* WallpaperPicker/res/values-nb/strings.xml
+* WallpaperPicker/res/values-nl/
+* WallpaperPicker/res/values-nl/strings.xml
+* WallpaperPicker/res/values-nodpi/
+* WallpaperPicker/res/values-nodpi/wallpapers.xml
+* WallpaperPicker/res/values-pl/
+* WallpaperPicker/res/values-pl/strings.xml
+* WallpaperPicker/res/values-pt-rPT/
+* WallpaperPicker/res/values-pt-rPT/strings.xml
+* WallpaperPicker/res/values-pt/
+* WallpaperPicker/res/values-pt/strings.xml
+* WallpaperPicker/res/values-ro/
+* WallpaperPicker/res/values-ro/strings.xml
+* WallpaperPicker/res/values-ru/
+* WallpaperPicker/res/values-ru/strings.xml
+* WallpaperPicker/res/values-sk/
+* WallpaperPicker/res/values-sk/strings.xml
+* WallpaperPicker/res/values-sl/
+* WallpaperPicker/res/values-sl/strings.xml
+* WallpaperPicker/res/values-sr/
+* WallpaperPicker/res/values-sr/strings.xml
+* WallpaperPicker/res/values-sv/
+* WallpaperPicker/res/values-sv/strings.xml
+* WallpaperPicker/res/values-sw/
+* WallpaperPicker/res/values-sw/strings.xml
+* WallpaperPicker/res/values-sw600dp/
+* WallpaperPicker/res/values-sw600dp/config.xml
+* WallpaperPicker/res/values-sw720dp-v19/
+* WallpaperPicker/res/values-sw720dp-v19/styles.xml
+* WallpaperPicker/res/values-sw720dp/
+* WallpaperPicker/res/values-sw720dp/dimens.xml
+* WallpaperPicker/res/values-sw720dp/styles.xml
+* WallpaperPicker/res/values-th/
+* WallpaperPicker/res/values-th/strings.xml
+* WallpaperPicker/res/values-tl/
+* WallpaperPicker/res/values-tl/strings.xml
+* WallpaperPicker/res/values-tr/
+* WallpaperPicker/res/values-tr/strings.xml
+* WallpaperPicker/res/values-uk/
+* WallpaperPicker/res/values-uk/strings.xml
+* WallpaperPicker/res/values-v19/
+* WallpaperPicker/res/values-v19/styles.xml
+* WallpaperPicker/res/values-vi/
+* WallpaperPicker/res/values-vi/strings.xml
+* WallpaperPicker/res/values-zh-rCN/
+* WallpaperPicker/res/values-zh-rCN/strings.xml
+* WallpaperPicker/res/values-zh-rHK/
+* WallpaperPicker/res/values-zh-rHK/strings.xml
+* WallpaperPicker/res/values-zh-rTW/
+* WallpaperPicker/res/values-zh-rTW/strings.xml
+* WallpaperPicker/res/values-zu/
+* WallpaperPicker/res/values-zu/strings.xml
+* WallpaperPicker/res/values/
+* WallpaperPicker/res/values/colors.xml
+* WallpaperPicker/res/values/config.xml
+* WallpaperPicker/res/values/dimens.xml
+* WallpaperPicker/res/values/strings.xml
+* WallpaperPicker/res/values/styles.xml
+* WallpaperPicker/src/
+* WallpaperPicker/src/android/
+* WallpaperPicker/src/android/util/
+* WallpaperPicker/src/android/util/Pools.java
+* WallpaperPicker/src/com/
+* WallpaperPicker/src/com/android/
+* WallpaperPicker/src/com/android/gallery3d/
+* WallpaperPicker/src/com/android/gallery3d/common/
+* WallpaperPicker/src/com/android/gallery3d/common/BitmapUtils.java
+* WallpaperPicker/src/com/android/gallery3d/common/Utils.java
+* WallpaperPicker/src/com/android/gallery3d/exif/
+* WallpaperPicker/src/com/android/gallery3d/exif/ByteBufferInputStream.java
+* WallpaperPicker/src/com/android/gallery3d/exif/CountedDataInputStream.java
+* WallpaperPicker/src/com/android/gallery3d/exif/ExifData.java
+* WallpaperPicker/src/com/android/gallery3d/exif/ExifInterface.java
+* WallpaperPicker/src/com/android/gallery3d/exif/ExifInvalidFormatException.java
+* WallpaperPicker/src/com/android/gallery3d/exif/ExifModifier.java
+* WallpaperPicker/src/com/android/gallery3d/exif/ExifOutputStream.java
+* WallpaperPicker/src/com/android/gallery3d/exif/ExifParser.java
+* WallpaperPicker/src/com/android/gallery3d/exif/ExifReader.java
+* WallpaperPicker/src/com/android/gallery3d/exif/ExifTag.java
+* WallpaperPicker/src/com/android/gallery3d/exif/IfdData.java
+* WallpaperPicker/src/com/android/gallery3d/exif/IfdId.java
+* WallpaperPicker/src/com/android/gallery3d/exif/JpegHeader.java
+* WallpaperPicker/src/com/android/gallery3d/exif/OrderedDataOutputStream.java
+* WallpaperPicker/src/com/android/gallery3d/exif/Rational.java
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/BasicTexture.java
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/BitmapTexture.java
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/GLCanvas.java
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/GLES20Canvas.java
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/GLES20IdImpl.java
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/GLId.java
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/GLPaint.java
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/RawTexture.java
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/Texture.java
+* WallpaperPicker/src/com/android/gallery3d/glrenderer/UploadedTexture.java
+* WallpaperPicker/src/com/android/gallery3d/util/
+* WallpaperPicker/src/com/android/gallery3d/util/IntArray.java
+* WallpaperPicker/src/com/android/launcher3/
+* WallpaperPicker/src/com/android/launcher3/AlphaDisableableButton.java
+* WallpaperPicker/src/com/android/launcher3/CheckableFrameLayout.java
+* WallpaperPicker/src/com/android/launcher3/CropView.java
+* WallpaperPicker/src/com/android/launcher3/DrawableTileSource.java
+* WallpaperPicker/src/com/android/launcher3/LiveWallpaperListAdapter.java
+* WallpaperPicker/src/com/android/launcher3/SavedWallpaperImages.java
+* WallpaperPicker/src/com/android/launcher3/ThirdPartyWallpaperPickerListAdapter.java
+* WallpaperPicker/src/com/android/launcher3/WallpaperCropActivity.java
+* WallpaperPicker/src/com/android/launcher3/WallpaperPickerActivity.java
+* WallpaperPicker/src/com/android/launcher3/WallpaperRootView.java
+* WallpaperPicker/src/com/android/photos/
+* WallpaperPicker/src/com/android/photos/BitmapRegionTileSource.java
+* WallpaperPicker/src/com/android/photos/views/
+* WallpaperPicker/src/com/android/photos/views/BlockingGLTextureView.java
+* WallpaperPicker/src/com/android/photos/views/TiledImageRenderer.java
+* WallpaperPicker/src/com/android/photos/views/TiledImageView.java
+* fill_screens.py
+* print_db.py
+* proguard.flags
+* protos/
+* protos/backup.proto
+* tests/
+* tests/Android.mk
+* tests/stress/
+* tests/stress/Android.mk
+* tests/stress/AndroidManifest.xml
+* tests/stress/src/
+* tests/stress/src/com/
+* tests/stress/src/com/android/
+* tests/stress/src/com/android/launcher3/
+* tests/stress/src/com/android/launcher3/stress/
+* tests/stress/src/com/android/launcher3/stress/LauncherRotationStressTest.java
+* update_gallery_files.py
+* update_system_wallpaper_cropper.py
+* util/
+* util/com/
+* util/com/android/
+* util/com/android/launcher3/
+* util/com/android/launcher3/DecoderRing.java
+* util/etc/
+* util/etc/launcher_protoutil
+* util/etc/manifest.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+protobuf-java-2.6.1.jar => com.google.protobuf:protobuf-java:2.6.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

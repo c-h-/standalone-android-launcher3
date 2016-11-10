@@ -1,0 +1,34 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+      "browser": true,
+      "node": true
+  },
+
+  "globals": {
+      "React": true
+  },
+
+  "ecmaFeatures": {
+      "jsx": true
+  },
+
+  "plugins": [
+      "react-native"
+  ],
+  "extends": "airbnb",
+  "rules": {
+    "max-len": "off",
+    "guard-for-in": "off",
+    "arrow-body-style": "off",
+    "quote-props": "off",
+    "camelcase": "off",
+    "jsx-a11y/img-uses-alt": "off",
+    "jsx-a11y/redundant-alt": "off",
+    "jsx-a11y/valid-aria-role": "off",
+    "brace-style": [
+      1,
+      "stroustrup"
+    ]
+  },
+}
